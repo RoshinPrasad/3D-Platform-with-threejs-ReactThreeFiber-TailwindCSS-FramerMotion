@@ -15,10 +15,10 @@ const Hero = () => {
 
         <div>
           <h1 className={`${styles.heroHeadText} text-white`}>
-            Hi, <span className='text-[#915EFF]'>Pumpkin</span>
+            Hi, <span className='text-[#915EFF]'>Ya'll</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-           I Love You So Much <br className='sm:block hidden' />
+           This is ThreeJs <br className='sm:block hidden' />
             Bae
           </p>
         </div>
